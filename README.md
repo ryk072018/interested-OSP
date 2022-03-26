@@ -10,3 +10,4 @@
 |[HowToCook](https://github.com/Anduin2017/HowToCook)|程序员在家做饭方法指南。|
 |[pdf.js](https://github.com/mozilla/pdf.js)|JavaScript 中的 PDF 阅读器|
 |[react-datepicker](https://github.com/Hacker0x01/react-datepicker)|一个简单且可重用的 React 日期选择器组件|
+|[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)|markdown版表情符号备忘单 emoji :rofl::rofl:|
