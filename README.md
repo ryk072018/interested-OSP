@@ -26,8 +26,9 @@
 |[react-i18next](https://github.com/i18next/react-i18next)|React国际化|...|
 |[zx](https://github.com/google/zx)|写脚本|编写更好脚本的工具|
 |[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|zsh框架|一个令人愉快的社区驱动（拥有 2,000 多名贡献者）框架，用于管理您的 zsh 配置|
-|[]()|||
-|[]()|||
+|[Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|web开发|24 节课，12 周，作为 Web 开发人员入门|
+|[budibase](https://github.com/Budibase/budibase)|低代码平台|关于
+Budibase 是一个开源低代码平台，可在几分钟内创建内部应用程序。支持 PostgreSQL、MySQL、MSSQL、MongoDB、Rest API、Docker、K8s|
 |[]()||
 |[]()||
 |[]()||
