@@ -27,12 +27,12 @@
 |[zx](https://github.com/google/zx)|写脚本|编写更好脚本的工具|
 |[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|zsh框架|一个令人愉快的社区驱动（拥有 2,000 多名贡献者）框架，用于管理您的 zsh 配置|
 |[Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|web开发|24 节课，12 周，作为 Web 开发人员入门|
-|[budibase](https://github.com/Budibase/budibase)|低代码平台|关于
-Budibase 是一个开源低代码平台，可在几分钟内创建内部应用程序。支持 PostgreSQL、MySQL、MSSQL、MongoDB、Rest API、Docker、K8s|
-|[]()||
-|[]()||
-|[]()||
-|[]()||
+|[budibase](https://github.com/Budibase/budibase)|低代码平台|关于Budibase 是一个开源低代码平台，可在几分钟内创建内部应用程序。支持 PostgreSQL、MySQL、MSSQL、MongoDB、Rest API、Docker、K8s|
+|[30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)|代码片段|满足您所有开发需求的简短 JavaScript 代码片段
+|[wg-easy](https://github.com/WeeJeWel/wg-easy)|WireGuard VPN UI|运行 WireGuard VPN + 基于 Web 的管理 UI 的最简单方法
+|[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)|提问技巧|本文由著名黑客埃里克·雷蒙德（Eric S. Raymond）所写的技术，教你如何正确的提出问题并获得你的满意。
+|[WireGuard](https://github.com/WireGuard)|VPN|
+|[CS-Notes](https://github.com/CyC2018/CS-Notes)|面试|技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计|
 |[]()||
 |[]()||
 |[]()||
