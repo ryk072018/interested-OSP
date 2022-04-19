@@ -47,15 +47,15 @@
 |[public-apis](https://github.com/public-apis/public-apis)|API列表|免费 API 的集合列表|
 |[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)|全栈|全栈教程2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试|
 |[fullstackopen](https://fullstackopen.com/zh/)|全栈开发|深入浅出现代Web编程|
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
+|[three.js](https://github.com/mrdoob/three.js)|3D|JavaScript 3D 库。|
+|[personal-security](https://github.com/Lissy93/personal-security-checklist)|个人安全应用清单|有300+个应用|
+|[audacity](https://github.com/audacity/audacity)|音乐编辑器||
+|[javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)|1000道JS面试题||
+|[fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)| Coursera 课程||
+|[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|cs课程|带有视频讲座的计算机科学课程列表|
+|[system-design-primer](https://github.com/donnemartin/system-design-primer)|系统设计入门|学习如何设计大型系统|
+|[Marlin](https://github.com/MarlinFirmware/Marlin)| 3D 打印机固件||
+|[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)|开发人员设计资源||
 |[]()|||
 |[]()|||
 |[]()|||
