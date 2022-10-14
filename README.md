@@ -56,15 +56,14 @@
 |[system-design-primer](https://github.com/donnemartin/system-design-primer)|系统设计入门|学习如何设计大型系统|
 |[Marlin](https://github.com/MarlinFirmware/Marlin)| 3D 打印机固件||
 |[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)|开发人员设计资源||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
-|[]()|||
+|[medusa](https://github.com/medusajs/medusa)|开源 Shopify 替代品||
+|[JavaScript](https://github.com/TheAlgorithms/JavaScript)|JS算法||
+|[stellarium](https://github.com/Stellarium/stellarium)|实时渲染逼真的天空|免费的 GPL 软件|
+|[stepci](https://github.com/stepci/stepci)|API测试和监控||
+|[keepassxc](https://github.com/keepassxreboot/keepassxc)|密码管理器||
+|[bitwarden](https://github.com/bitwarden)|密码管理器|开源密码管理解决方案|
+|[metlo](https://github.com/metlo-labs/metlo)|开源API安全平台||
+|[course22](https://github.com/fastai/course22)|面向程序员的实用深度学习||
 |[]()|||
 |[]()|||
 |[]()|||
